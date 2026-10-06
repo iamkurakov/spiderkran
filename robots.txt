@@ -26,4 +26,4 @@ Allow: /
 User-agent: Claude-User
 Allow: /
 
-Sitemap: https://{{domain}}/sitemap.xml
+Sitemap: https://spiderkran.ru/sitemap.xml
